@@ -1,0 +1,59 @@
+/* footer部分 */
+#footer{
+    background-color: #222;
+    height: 360px;
+    clear: both;
+    position: relative;
+    top: 230px;
+}
+#footer .top{
+    width: 1263px;
+    height: 280px;
+    margin:0 auto;
+    text-align: center;
+}
+#footer .block{
+    width:410px;
+    height: 274px;
+    text-align:left;
+    display: inline-block;
+    color: #ccc;
+    vertical-align: top;
+}
+#footer h2{
+    padding:20px 0 0 20px;
+    font-size: 24px;
+    color: white;
+    font-weight: normal;
+    text-align: left;
+    text-indent: 35px;
+}
+#footer ul{
+    font-size: 18px;
+    color:#777;
+    text-indent: 20px;
+    line-height: 2;
+}
+#footer hr{
+    width:80%;
+    border:1px dashed #333;
+}
+#footer .left{
+    float:left;
+}
+#footer .center{
+    float:left;
+    
+}
+#footer .right{
+    float:right; 
+}
+#footer .bottom{
+    height:80px;
+    line-height: 80px;
+    text-align: center;
+    color:#777;
+    background-color: #000;
+    border-top:1px solid #444;
+}
+
